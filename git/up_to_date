@@ -1,3 +1,4 @@
 git add README.md
 git commit -m "Getting used to this"
+git pull
 git push
